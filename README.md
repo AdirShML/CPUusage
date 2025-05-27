@@ -10,6 +10,6 @@ Backend:
 
 clone repo to your device, and run: 
   uvicorn backend.routes:app --reload to run the server --> by default Port is 8000 
-  for the FE just -->   run npm run div
+  for the FE just run-->   npm run dev
 
 a Full Stack web based app, to visualize an AWS instance CPU usage over time. 
